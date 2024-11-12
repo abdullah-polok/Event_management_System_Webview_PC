@@ -1,0 +1,15 @@
+{
+  "name": "webview_emsc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "electron": "^33.2.0"
+  }
+}
